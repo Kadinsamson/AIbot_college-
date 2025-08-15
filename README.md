@@ -39,8 +39,8 @@ This chatbot combines **Natural Language Processing** (NLP) and **Sentiment Anal
 | VADER | Sentiment analysis |
 | Groq API (LLaMA) | AI text generation |
 | JSON | FAQ storage |
-
 ---
+<img width="1536" height="1024" alt="ChatGPT Image Aug 15, 2025, 01_26_25 PM" src="https://github.com/user-attachments/assets/a4202a0b-deb9-48e0-9f64-da9422839c0f" />
 
 ## 🚀 Installation & Running
 
